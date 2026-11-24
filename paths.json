@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/khsieh/tw_b2b_eds_demo/language-masters/en:/",
+    "/content/khsieh/tw_b2b_eds_demo/language-masters/en/:/en/",
+    "/content/khsieh/tw_b2b_eds_demo/configuration:/.helix/config.json",
+    "/content/khsieh/tw_b2b_eds_demo/metadata:/metadata.json",
+    "/content/khsieh/tw_b2b_eds_demo/redirects:/redirects.json",
+    "/content/khsieh/tw_b2b_eds_demo/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/khsieh/tw_b2b_eds_demo/",
+    "/content/dam/khsieh/tw_b2b_eds_demo/"
   ]
 }
